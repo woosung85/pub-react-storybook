@@ -12,15 +12,15 @@ storybook 실행 명령어
 ### `npm run storybook`
 
 ## storybook 테마 설치
-## `npm install -D @storybook/theming` --> 설치 명령어
+### `npm install -D @storybook/theming` --> 설치 명령어
 
 storybook 폴더 내부에 테마 변경을 위한 
 theme.js / manager.js 생성
- 
 
 
 
-## 사용 가능한 스크립트
+
+<!-- ## 사용 가능한 스크립트
 
 프로젝트 디렉토리에서 다음을 실행할 수 있습니다.
 
@@ -69,4 +69,4 @@ React를 배우려면 공식 [React documentation](https://reactjs.org/)을 확�
 - [프로그레시브 웹 앱(PWA) 만들기](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 - [고급 환경 구성](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 - [배포](https://facebook.github.io/create-react-app/docs/deployment)
-- [`npm run build` 명령이 실패 할 경우](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [`npm run build` 명령이 실패 할 경우](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
