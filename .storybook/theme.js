@@ -5,7 +5,7 @@ import { create } from "@storybook/theming";
 export default create({
   // theme dark or light
   base: "dark",
-  brandTitle: 'PUBLISHINg GUIDE',
+  brandTitle: 'PUBLISHING GUIDE',
   brandUrl: "/",
 });
 
