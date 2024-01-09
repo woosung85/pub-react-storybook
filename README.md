@@ -40,9 +40,14 @@ ex) button.jsx / button.stories.js
 스토리북에서만 적용되는 css 수정 내용작성
 /stories/style/storyBook.scss 
 
+------------------------------------------------------------------------------------------------------------------------------
 
+### 작업가이드
+/stories/base/ 폴더안에 파일 생성 
+ex)Button.jsx / Button.stories.js 각각 생성 
 
-
+Button.stories.js 파일 안에 
+title : 내용 수정 - 'ver_0.0/파일이름'
 
 
 
