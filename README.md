@@ -23,10 +23,6 @@ theme.js / manager.js 생성
 
 #### 파일경로
 /stories/Configure.mdx - list 파일
-/stories/style/Configure.scss - list 파일 css
-
-#### #CSS
-기존 퍼블가이드 scss 파일 사용
 
 #### 파일경로
 /stories/style/
@@ -39,6 +35,13 @@ ex) button.jsx / button.stories.js
 
 #### 파일경로
 /stories/base/
+
+#### Scss 경로
+스토리북에서만 적용되는 css 수정 내용작성
+/stories/style/storyBook.scss 
+
+
+
 
 
 
